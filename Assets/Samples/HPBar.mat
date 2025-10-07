@@ -42,29 +42,27 @@ Material:
     m_Ints: []
     m_Floats:
     - _ColorMask: 15
-    - _Damage: 0.416
-    - _Damage_Ratio: 0.15
-    - _Health: 0.147
-    - _Speed: 0.5
+    - _Damage: 0.1
+    - _Health: 0.8
     - _Stencil: 0
     - _StencilComp: 8
     - _StencilOp: 0
     - _StencilReadMask: 255
     - _StencilWriteMask: 255
-    - _Stroke_Thickness: 0.15
-    - _Tilt: -0.25
+    - _StrokeThickness: 0.15
     - _UIMaskSoftnessX: 1
     - _UIMaskSoftnessY: 1
+    - _WaveSpeed: 0.5
     m_Colors:
-    - _Background_Color: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
+    - _BackgroundColor: {r: 0.21960777, g: 0.21960777, b: 0.21960777, a: 1}
     - _ClipRect: {r: 0, g: 0, b: 0, a: 0}
-    - _Corner_Radii: {r: 0.2, g: 0.2, b: 0.2, a: 0.2}
-    - _Damage_Color: {r: 0.740566, g: 0, b: 0, a: 1}
-    - _Low_Color: {r: 0, g: 1, b: 0, a: 1}
-    - _Normal_Color: {r: 0.8, g: 1, b: 0, a: 1}
-    - _Outline_Color: {r: 0, g: 0, b: 0, a: 1}
+    - _CornerRadii: {r: 0.2, g: 0.2, b: 0.2, a: 0.2}
+    - _DamageColor: {r: 0.7411765, g: 0, b: 0, a: 1}
+    - _HighColor: {r: 0.8, g: 1, b: 0, a: 1}
+    - _LowColor: {r: 0, g: 1, b: 0, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Scale: {r: 600, g: 200, b: 0, a: 0}
     - _Size: {r: 0.8, g: 0.4, b: 0, a: 0}
-    - _Tilt: {r: -0.4, g: 0, b: 0, a: 0}
-    - _Width_Height: {r: 600, g: 150, b: 0, a: 0}
+    - _Tilt: {r: -0.2, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
